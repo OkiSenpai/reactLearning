@@ -1,7 +1,7 @@
 function Header() {
   return (
     <>
-      <h1>Vite + React</h1>
+      <h1>Bookstore + React</h1>
 
       <p>
         We have several books. Feel free to browse for as long as you like.
