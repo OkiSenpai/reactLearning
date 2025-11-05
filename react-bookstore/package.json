@@ -5,12 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-     "test": "vitest --environment jsdom",
+    "test": "vitest --environment jsdom",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^5.3.8",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
